@@ -1,0 +1,22 @@
+uuid: 473c0c56-5cf2-4838-be52-a9b02022909c
+langcode: es
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - despiertastu_varbase
+_core:
+  default_config_hash: uUG39uQcSywiHN6M9iWEtJt928Lm3ZVnNsSoQijb6Q8
+id: despiertastu_varbase_messages
+theme: despiertastu_varbase
+region: header
+weight: -2
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

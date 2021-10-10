@@ -1,0 +1,22 @@
+uuid: 8bac9c0d-31e8-4e9f-8296-1fc39f6aae88
+langcode: es
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - despiertastu_varbase
+_core:
+  default_config_hash: Jo1_tns1joKoS62zefYc7naL2rM_vofhuLnipd-she4
+id: despiertastu_varbase_breadcrumbs
+theme: despiertastu_varbase
+region: header
+weight: -4
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  provider: system
+  label_display: '0'
+visibility: {  }

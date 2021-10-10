@@ -1,0 +1,27 @@
+uuid: e81bfb5c-cc25-42b4-ab77-481e1b4cc7d9
+langcode: es
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - despiertastu_varbase
+_core:
+  default_config_hash: BTtteVXn1RtL4B4GQUtO46_a4YFie_iVU0c1Sdvwjjo
+id: despiertastu_varbase_main_menu
+theme: despiertastu_varbase
+region: navigation_collapsible
+weight: -5
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 2
+  expand_all_items: false
+visibility: {  }

@@ -1,0 +1,20 @@
+uuid: e7b9cd36-0d37-445c-82ad-5ff408bd5d43
+langcode: es
+status: true
+dependencies:
+  theme:
+    - despiertastu_varbase
+_core:
+  default_config_hash: B6LA7lu5v9AjXkg4Caa_YQfFrK2n2qWG6Lqcxm4Pbd4
+id: despiertastu_varbase_page_title
+theme: despiertastu_varbase
+region: header
+weight: -1
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,29 @@
+uuid: 912e0929-008e-4b14-86cd-80581eefb467
+langcode: es
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - despiertastu_varbase
+_core:
+  default_config_hash: 9OYL1fL_NcoALi6IE1bFn1kYZI8L-eydur-X9f-GVIk
+id: despiertastu_varbase_local_tasks
+theme: despiertastu_varbase
+region: header
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: true
+visibility:
+  request_path:
+    id: request_path
+    pages: '/node/*'
+    negate: true
+    context_mapping: {  }

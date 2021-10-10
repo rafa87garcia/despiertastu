@@ -1,0 +1,25 @@
+uuid: 2e3e9202-016b-4571-882b-c482f7b1c317
+langcode: es
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - despiertastu_varbase
+_core:
+  default_config_hash: 5KQpCN7YDnOcfxC_DJzRoYjTPQOkwfZWX20-5CGngSI
+id: despiertastu_varbase_branding
+theme: despiertastu_varbase
+region: navigation
+weight: -5
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: true
+  use_site_name: false
+  use_site_slogan: false
+visibility: {  }

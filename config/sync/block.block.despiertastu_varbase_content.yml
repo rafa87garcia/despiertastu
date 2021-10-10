@@ -1,0 +1,22 @@
+uuid: 1cdcf1d8-56f0-4546-a16a-85e45c9948a1
+langcode: es
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - despiertastu_varbase
+_core:
+  default_config_hash: v1jS9UNKXlXIzgsw-1CbbEW3UljQAaGAm0tMTAJ1wfY
+id: despiertastu_varbase_content
+theme: despiertastu_varbase
+region: content
+weight: -5
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

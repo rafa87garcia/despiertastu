@@ -1,0 +1,27 @@
+uuid: 36ecd358-7d42-4a1a-9b24-5c6d4700aaa2
+langcode: es
+status: true
+dependencies:
+  config:
+    - system.menu.footer
+  module:
+    - system
+  theme:
+    - despiertastu_varbase
+_core:
+  default_config_hash: ZNh2F2xAF9dPs0EDhiMDlplZG8eMa1_cEygckhQblsU
+id: despiertastu_varbase_footer
+theme: despiertastu_varbase
+region: footer
+weight: -5
+provider: null
+plugin: 'system_menu_block:footer'
+settings:
+  id: 'system_menu_block:footer'
+  label: 'Footer menu'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

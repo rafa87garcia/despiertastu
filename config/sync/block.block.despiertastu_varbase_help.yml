@@ -1,0 +1,22 @@
+uuid: 07171f5d-ba9c-48b7-af50-a0bb0fcac9b5
+langcode: es
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - despiertastu_varbase
+_core:
+  default_config_hash: PmCHqcFu7iu-PwI8YomTuRSfkeePj3bw_i4laz0gzWk
+id: despiertastu_varbase_help
+theme: despiertastu_varbase
+region: help
+weight: -5
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

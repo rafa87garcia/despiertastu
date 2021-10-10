@@ -275,6 +275,7 @@ theme:
   claro: 0
   vartheme_claro: 0
   vartheme_bs4: 0
+  despiertastu_varbase: 0
 profile: varbase
 _core:
   default_config_hash: R4IF-ClDHXxblLcG0L7MgsLvfBIMAvi_skumNFQwkDc
