@@ -1,0 +1,4 @@
+# Schema for the configuration files of the despiertastu_varbase.
+despiertastu_varbase.settings:
+  type: bootstrap_barrio.settings
+  label: 'despiertastu_varbase settings'
