@@ -1,0 +1,14 @@
+uuid: 96305b2e-048c-4356-90e8-0585e4c8a8f7
+name: Despiertastu
+mail: noreply@vardot.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node/2
+admin_compact_mode: false
+weight_select_max: 100
+langcode: es
+default_langcode: es
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

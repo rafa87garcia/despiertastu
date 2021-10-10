@@ -1,0 +1,22 @@
+uuid: 4c6a2dee-4db6-4928-916b-91f24dad0ad7
+langcode: es
+status: true
+dependencies:
+  theme:
+    - vartheme_claro
+_core:
+  default_config_hash: abVJYo9oICBFqyabkfdOiGydr9OF_sH4lk73yDZgTy0
+id: vartheme_claro_secondary_local_tasks
+theme: vartheme_claro
+region: pre_content
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Secondary tabs'
+  provider: core
+  label_display: '0'
+  primary: false
+  secondary: true
+visibility: {  }

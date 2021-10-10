@@ -1,0 +1,9 @@
+uuid: 7d71e56f-9074-49a5-86d0-e86d2ccb4930
+langcode: es
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0fR41ZVRUxOxxr92QgMG6xU_V9e9V-C0i20Rt5ZjHuM
+id: access_metatag_plugins_report
+label: 'Access metatag plugins report'
+route: metatag.reports_plugins

@@ -1,0 +1,12 @@
+uuid: afacb900-a693-4ecd-8d16-1022343ea745
+langcode: es
+status: true
+dependencies:
+  module:
+    - media
+_core:
+  default_config_hash: 3hxTCUMUIrp88pXLLd5awRshmn82oAO8a8d9uljQzDs
+id: media.original
+label: Original
+targetEntityType: media
+cache: true

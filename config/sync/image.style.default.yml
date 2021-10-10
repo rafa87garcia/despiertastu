@@ -1,0 +1,9 @@
+uuid: f07ef442-2dfa-4078-af67-539ca8ad33f3
+langcode: es
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2QX4Oxwyqymo-XkQdjdQGO4x9ssXDJbV_c3Jt8AXFq0
+name: default
+label: Default
+effects: {  }

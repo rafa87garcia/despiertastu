@@ -1,0 +1,9 @@
+uuid: 32483845-e86a-47bd-a650-41b06f552809
+langcode: es
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: v8-M42K8F2WmNdvgAcUbGwiBqjeSQGsJD6OVoNCo_FY
+id: configure_entityqueues
+label: 'Configure entityqueues'
+route: entity.entity_queue.edit_form

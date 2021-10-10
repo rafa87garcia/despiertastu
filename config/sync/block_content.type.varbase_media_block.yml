@@ -1,0 +1,10 @@
+uuid: f3ef8535-45fd-470c-9583-efaaf241c650
+langcode: es
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tlzyGjeUsuNrGtYd1crba8PZ4F0iFyufpBDkf7rk1jM
+id: varbase_media_block
+label: 'Media (image/video)'
+revision: 1
+description: 'A media block contains a title and media.'

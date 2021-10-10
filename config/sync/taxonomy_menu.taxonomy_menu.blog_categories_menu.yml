@@ -1,0 +1,18 @@
+uuid: 693965dd-ae7e-4ea7-9f7a-add3d571d2ad
+langcode: es
+status: true
+dependencies:
+  config:
+    - system.menu.blog-menu
+    - taxonomy.vocabulary.blog_categories
+_core:
+  default_config_hash: idv36iJZMntBKLg7lSPhW4Log9xMNWOHpiVcA2IKraE
+id: blog_categories_menu
+label: 'Blog categories Menu'
+vocabulary: blog_categories
+depth: 0
+menu: blog-menu
+expanded: false
+menu_parent: 'admin:node.add.varbase_blog'
+description_field_name: ''
+use_term_weight_order: true

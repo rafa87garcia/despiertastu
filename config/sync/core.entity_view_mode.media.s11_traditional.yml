@@ -1,0 +1,12 @@
+uuid: c1ebdbb6-34ff-452e-b1be-852ca1b7561e
+langcode: es
+status: true
+dependencies:
+  module:
+    - media
+_core:
+  default_config_hash: CPwfVMTR9eZjKADQ7l7rxtTecY_P6W077nAPwEYpa7k
+id: media.s11_traditional
+label: 'Size 11 traditional 4:3'
+targetEntityType: media
+cache: true

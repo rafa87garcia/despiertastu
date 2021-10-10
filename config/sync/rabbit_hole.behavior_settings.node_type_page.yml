@@ -1,0 +1,14 @@
+uuid: 78018569-c86b-46fa-869d-e642721ff2ed
+langcode: es
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CFALqljM7pVtOiWVTVZ-Hkfc-OZWPOFLZehVKXwkkR4
+id: node_type_page
+entity_type_id: null
+entity_id: null
+action: display_page
+allow_override: 0
+redirect: ''
+redirect_code: 301
+redirect_fallback_action: null

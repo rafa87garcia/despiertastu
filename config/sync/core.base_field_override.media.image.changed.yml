@@ -1,0 +1,20 @@
+uuid: 7b8231e2-1f25-460d-a9f9-dd801688ec45
+langcode: es
+status: true
+dependencies:
+  config:
+    - media.type.image
+_core:
+  default_config_hash: 5HVSmzFl909_BK78549b-yy0sAPGNL7UjNUM954_wUs
+id: media.image.changed
+field_name: changed
+entity_type: media
+bundle: image
+label: Changed
+description: 'The time the media item was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

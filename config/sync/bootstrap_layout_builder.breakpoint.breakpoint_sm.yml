@@ -1,0 +1,10 @@
+uuid: 940103a1-20c2-4e8c-bbec-3a47874052d2
+langcode: es
+status: 1
+dependencies: {  }
+_core:
+  default_config_hash: acUuYdfiAfsgcXBLp20J-Xh9Sotu0Q6ANaBE90VefNM
+id: breakpoint_sm
+label: 'Small devices (Landscape phones)'
+base_class: col-sm
+weight: '-7'

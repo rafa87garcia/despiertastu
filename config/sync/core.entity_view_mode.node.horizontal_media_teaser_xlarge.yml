@@ -1,0 +1,12 @@
+uuid: 0dbb22cc-49b8-429b-a482-8be2d0784315
+langcode: es
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: SgG8ScvrTZMm6XzrzzbZt1dGmtO-YxX4wqa2BfQ7wMw
+id: node.horizontal_media_teaser_xlarge
+label: 'Horizontal media teaser - xlarge'
+targetEntityType: node
+cache: true

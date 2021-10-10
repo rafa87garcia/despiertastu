@@ -1,0 +1,10 @@
+uuid: b62575ce-8a21-4de3-a1d6-3e196e5946d7
+langcode: es
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: njngit4ZNABPEZdyaiPw7cZyN62JHCQdfuNbGvRGpk4
+id: varbase_gallery_block
+label: Gallery
+revision: 1
+description: 'A gallery block contains a title and a gallery of images and videos.'

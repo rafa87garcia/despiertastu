@@ -1,0 +1,12 @@
+uuid: 18b3a9b8-600b-42be-8eee-cc713c75ea09
+langcode: es
+status: true
+dependencies:
+  module:
+    - media
+_core:
+  default_config_hash: l3lsVmINOpQhjkpRLiwDtPUUd17wedsjFNVVdJO6E1Q
+id: media.s12
+label: 'Size 12 auto'
+targetEntityType: media
+cache: true
