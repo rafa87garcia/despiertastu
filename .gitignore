@@ -8,8 +8,7 @@
 # earlier versions of Drupal are tracked in `community/PHP/`
 
 # Ignore configuration files that may contain sensitive information
-!/docroot/sites/*/settings.php
-/docroot/sites/*/*settings*.php
+/docroot/sites/*/settings.local.php
 /docroot/sites/*/*services*.yml
 
 # Ignore paths that may contain user-generated content
