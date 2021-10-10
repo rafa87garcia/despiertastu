@@ -152,7 +152,7 @@ third_party_settings:
       weight: 3
       format_type: html_element
       format_settings:
-        label: Description
+        label: Descripción
         element: div
         show_label: false
         label_element: h3
@@ -161,7 +161,7 @@ third_party_settings:
         speed: fast
         id: ''
         classes: card-body
-      label: Description
+      label: Descripción
       region: hidden
     group_author_info:
       children:
@@ -190,7 +190,7 @@ third_party_settings:
       weight: 0
       format_type: html_element
       format_settings:
-        label: Card
+        label: Tarjeta
         element: div
         show_label: false
         label_element: h3
@@ -199,7 +199,7 @@ third_party_settings:
         speed: fast
         id: ''
         classes: card
-      label: Card
+      label: Tarjeta
       region: hidden
 _core:
   default_config_hash: B6ipJfmV6qFd1eTX4-QM9-EouUiVRONtbJ1gdQberjA

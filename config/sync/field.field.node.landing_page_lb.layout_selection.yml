@@ -11,7 +11,7 @@ id: node.landing_page_lb.layout_selection
 field_name: layout_selection
 entity_type: node
 bundle: landing_page_lb
-label: Layout
+label: Diseño
 description: ''
 required: false
 translatable: true

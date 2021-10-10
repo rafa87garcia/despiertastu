@@ -12,7 +12,7 @@ id: node.varbase_heroslider_media.path
 field_name: path
 entity_type: node
 bundle: varbase_heroslider_media
-label: 'URL alias'
+label: 'Alias de URL'
 description: ''
 required: false
 translatable: false

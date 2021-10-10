@@ -19,10 +19,10 @@ type_settings:
     draft:
       published: false
       default_revision: false
-      label: Draft
+      label: Borrador
       weight: -1
     published:
-      label: Published
+      label: Publicado
       published: true
       default_revision: true
       weight: 0
@@ -48,7 +48,7 @@ type_settings:
         - draft
         - published
     publish:
-      label: Publish
+      label: Publicar
       to: published
       weight: 0
       from:
@@ -64,3 +64,6 @@ type_settings:
       - varbase_heroslider_media
       - varbase_blog
       - varbase_blog
+      - varbase_blog
+      - varbase_heroslider_media
+      - landing_page_lb

@@ -54,7 +54,6 @@ content:
         mouseWheel: '0'
         randomize: '0'
         variableWidth: '0'
-      sizes: ''
       current_view_mode: default
       background: false
       caption:
@@ -89,12 +88,16 @@ content:
       box_media_style: ''
       preserve_keys: false
       visible_items: 0
-      grid: 0
-      grid_header: ''
-      grid_medium: 0
-      grid_small: 0
+      grid: ''
+      grid_medium: ''
+      grid_small: ''
       id: ''
       overlay: ''
+      use_theme_field: false
+      fx: ''
+      _uri: ''
+      sizes: ''
+      grid_header: ''
     third_party_settings:
       ds:
         ds_limit: ''

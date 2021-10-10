@@ -12,8 +12,8 @@ id: media.file.thumbnail
 field_name: thumbnail
 entity_type: media
 bundle: file
-label: Thumbnail
-description: 'The thumbnail of the media item.'
+label: Miniatura
+description: 'La miniatura del elemento de multimedia.'
 required: false
 translatable: false
 default_value: {  }

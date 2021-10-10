@@ -349,7 +349,7 @@ third_party_settings:
             region: blb_region_col_1
             configuration:
               id: 'field_block:taxonomy_term:blog_categories:description'
-              label: Description
+              label: Descripción
               provider: layout_builder
               label_display: '0'
               formatter:

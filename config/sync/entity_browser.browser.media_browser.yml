@@ -19,7 +19,7 @@ display: modal
 display_configuration:
   width: '1245'
   height: '1245'
-  link_text: 'Select media'
+  link_text: 'Seleccionar medios'
   auto_open: false
 selection_display: no_display
 selection_display_configuration: {  }
@@ -30,7 +30,7 @@ widgets:
     settings:
       view: media_browsers
       view_display: media_browser
-      submit_text: 'Select media'
+      submit_text: 'Seleccionar medios'
       auto_select: false
     uuid: 901e1292-75e8-4ecf-a08a-904e75b135bb
     weight: -10
@@ -42,7 +42,7 @@ widgets:
       form_mode: entity_browser
     uuid: 91fd896e-e8c5-415c-9d14-5bc59c60e630
     weight: -7
-    label: Embed
+    label: Incrustar
     id: embed_code
   0a2903ed-f5ef-42bb-9041-fb3081f7f64e:
     settings:
@@ -61,7 +61,7 @@ widgets:
       submit_text: 'Select image(s)'
     uuid: 0a2903ed-f5ef-42bb-9041-fb3081f7f64e
     weight: -9
-    label: 'Upload image'
+    label: 'Subir imagen'
     id: dropzonejs_media_entity_inline_entity_form
   c4c8ea33-b84d-49fe-9fb7-0992287b3c9e:
     settings:

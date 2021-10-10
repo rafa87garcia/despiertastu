@@ -10,8 +10,8 @@ id: block_content.basic.changed
 field_name: changed
 entity_type: block_content
 bundle: basic
-label: Changed
-description: 'The time that the custom block was last edited.'
+label: Modificado
+description: 'La fecha en la que el bloque personalizado se editó por última vez.'
 required: false
 translatable: false
 default_value: {  }

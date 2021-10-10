@@ -41,7 +41,7 @@ widgets:
       form_mode: entity_browser
     uuid: ed821f5d-dd9e-4132-b89a-54d97a36cd4e
     weight: 4
-    label: Embed
+    label: Incrustar
     id: embed_code
   ad7800f0-c930-4f86-905d-7dd893b2945f:
     settings:
@@ -60,5 +60,5 @@ widgets:
       submit_text: 'Select video(s)'
     uuid: ad7800f0-c930-4f86-905d-7dd893b2945f
     weight: 4
-    label: Upload
+    label: 'Subir al servidor'
     id: dropzonejs_media_entity_inline_entity_form

@@ -12,7 +12,7 @@ id: node.varbase_blog.field_tags
 field_name: field_tags
 entity_type: node
 bundle: varbase_blog
-label: Tags
+label: Etiquetas
 description: ''
 required: false
 translatable: false

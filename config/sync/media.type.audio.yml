@@ -11,7 +11,7 @@ _core:
   default_config_hash: 4rgSSYufIIezxoD6jn6Mt2BRWomio3eb-dbIK-wXMU0
 id: audio
 label: Audio
-description: 'A locally hosted audio file.'
+description: 'Un archivo de audio alojado localmente.'
 source: audio_file
 queue_thumbnail_downloads: false
 new_revision: true

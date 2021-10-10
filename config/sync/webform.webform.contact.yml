@@ -14,7 +14,7 @@ uid: null
 template: false
 archive: false
 id: contact
-title: Contact
+title: Contacto
 description: 'Basic email contact webform.'
 category: ''
 elements: |
@@ -143,7 +143,7 @@ settings:
   draft_pending_multiple_message: ''
   confirmation_type: url_message
   confirmation_title: ''
-  confirmation_message: 'Your message has been sent.'
+  confirmation_message: 'Su mensaje ha sido enviado.'
   confirmation_url: '<front>'
   confirmation_attributes: {  }
   confirmation_back: true

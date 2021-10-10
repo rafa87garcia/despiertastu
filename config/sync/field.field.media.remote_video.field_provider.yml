@@ -11,7 +11,7 @@ id: media.remote_video.field_provider
 field_name: field_provider
 entity_type: media
 bundle: remote_video
-label: Provider
+label: Proveedor
 description: ''
 required: false
 translatable: false

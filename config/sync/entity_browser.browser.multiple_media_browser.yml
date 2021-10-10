@@ -19,7 +19,7 @@ display: modal
 display_configuration:
   width: '1245'
   height: '1245'
-  link_text: 'Select media'
+  link_text: 'Seleccionar medios'
   auto_open: false
 selection_display: multi_step_display
 selection_display_configuration:
@@ -36,7 +36,7 @@ widgets:
     settings:
       view: media_browsers
       view_display: media_browser
-      submit_text: 'Select media'
+      submit_text: 'Seleccionar medios'
       auto_select: true
     uuid: 901e1292-75e8-4ecf-a08a-904e75b135bb
     weight: -10
@@ -48,7 +48,7 @@ widgets:
       form_mode: entity_browser
     uuid: 91fd896e-e8c5-415c-9d14-5bc59c60e630
     weight: -7
-    label: Embed
+    label: Incrustar
     id: embed_code
   3984f5cb-8773-46c6-b7b1-b60f47c7fe06:
     settings:

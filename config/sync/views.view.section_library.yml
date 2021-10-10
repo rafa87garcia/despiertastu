@@ -41,10 +41,10 @@ display:
       exposed_form:
         type: basic
         options:
-          submit_button: Filter
+          submit_button: Filtro
           reset_button: false
-          reset_button_label: Reset
-          exposed_sorts_label: 'Sort by'
+          reset_button_label: Restablecer
+          exposed_sorts_label: 'Ordenar por'
           expose_sort_order: true
           sort_asc_label: Asc
           sort_desc_label: Desc
@@ -58,16 +58,16 @@ display:
           tags:
             previous: ‹‹
             next: ››
-            first: '« First'
-            last: 'Last »'
+            first: '« Primero'
+            last: 'Último »'
           expose:
             items_per_page: false
-            items_per_page_label: 'Items per page'
+            items_per_page_label: 'Elementos por página'
             items_per_page_options: '5, 10, 25, 50'
             items_per_page_options_all: false
-            items_per_page_options_all_label: '- All -'
+            items_per_page_options_all_label: '- Todo -'
             offset: false
-            offset_label: Offset
+            offset_label: Desplazamiento
           quantity: 9
       style:
         type: table
@@ -147,7 +147,7 @@ display:
           relationship: none
           group_type: group
           admin_label: ''
-          label: Image
+          label: Imagen
           exclude: false
           alter:
             alter_text: true
@@ -214,7 +214,7 @@ display:
           relationship: none
           group_type: group
           admin_label: ''
-          label: Label
+          label: Etiqueta
           exclude: false
           alter:
             alter_text: false
@@ -275,7 +275,7 @@ display:
           relationship: none
           group_type: group
           admin_label: ''
-          label: Type
+          label: Tipo
           exclude: false
           alter:
             alter_text: false
@@ -404,7 +404,7 @@ display:
           relationship: none
           group_type: group
           admin_label: ''
-          label: Created
+          label: Creado
           exclude: false
           alter:
             alter_text: false
@@ -471,7 +471,7 @@ display:
           relationship: none
           group_type: group
           admin_label: ''
-          label: Changed
+          label: Modificado
           exclude: false
           alter:
             alter_text: false
@@ -538,7 +538,7 @@ display:
           relationship: none
           group_type: group
           admin_label: ''
-          label: 'Authored by'
+          label: 'Escrito por'
           exclude: false
           alter:
             alter_text: false
@@ -603,7 +603,7 @@ display:
           relationship: none
           group_type: group
           admin_label: ''
-          label: 'Operations links'
+          label: 'Enlaces de operación'
           exclude: false
           alter:
             alter_text: false
@@ -661,7 +661,7 @@ display:
           exposed: true
           expose:
             operator_id: label_op
-            label: Label
+            label: Etiqueta
             description: ''
             use_operator: false
             operator: label_op
@@ -711,7 +711,7 @@ display:
           exposed: true
           expose:
             operator_id: type_op
-            label: Type
+            label: Tipo
             description: null
             use_operator: false
             operator: type_op
@@ -726,7 +726,7 @@ display:
             placeholder: null
           is_grouped: true
           group_info:
-            label: Type
+            label: Tipo
             description: ''
             identifier: type
             optional: true
@@ -797,7 +797,7 @@ display:
   page_section_library:
     display_plugin: page
     id: page_section_library
-    display_title: Page
+    display_title: Página
     position: 1
     display_options:
       display_extenders: {  }

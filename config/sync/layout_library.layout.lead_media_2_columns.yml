@@ -265,7 +265,7 @@ layout:
         region: blb_region_col_1
         configuration:
           id: 'field_block:node:varbase_blog:body'
-          label: Body
+          label: Cuerpo
           provider: layout_builder
           label_display: '0'
           formatter:
@@ -616,7 +616,7 @@ layout:
         region: blb_region_col_1
         configuration:
           id: 'field_block:node:varbase_blog:field_tags'
-          label: Tags
+          label: Etiquetas
           provider: layout_builder
           label_display: visible
           formatter:

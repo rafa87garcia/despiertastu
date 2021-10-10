@@ -10,8 +10,8 @@ id: node.landing_page_lb.uid
 field_name: uid
 entity_type: node
 bundle: landing_page_lb
-label: 'Authored by'
-description: 'The username of the content author.'
+label: 'Escrito por'
+description: 'El nombre de usuario del autor del contenido.'
 required: false
 translatable: false
 default_value: {  }

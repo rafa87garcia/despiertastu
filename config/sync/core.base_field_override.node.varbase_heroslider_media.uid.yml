@@ -10,8 +10,8 @@ id: node.varbase_heroslider_media.uid
 field_name: uid
 entity_type: node
 bundle: varbase_heroslider_media
-label: 'Authored by'
-description: 'The username of the content author.'
+label: 'Escrito por'
+description: 'El nombre de usuario del autor del contenido.'
 required: false
 translatable: false
 default_value: {  }

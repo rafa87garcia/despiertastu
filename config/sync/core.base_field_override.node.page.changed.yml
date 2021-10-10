@@ -10,8 +10,8 @@ id: node.page.changed
 field_name: changed
 entity_type: node
 bundle: page
-label: Changed
-description: 'The time that the node was last edited.'
+label: Modificado
+description: 'La fecha en que el nodo fue editado por última vez.'
 required: false
 translatable: false
 default_value: {  }

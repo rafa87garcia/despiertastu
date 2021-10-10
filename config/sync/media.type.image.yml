@@ -10,8 +10,8 @@ third_party_settings:
 _core:
   default_config_hash: l_5CxuecEsy3be4R-3Hx2PZl8qbMcHKaB3Pgge8aaKs
 id: image
-label: Image
-description: 'Use local images for reusable media.'
+label: Imagen
+description: 'Utilice imágenes locales para elementos multimedia reutilizables.'
 source: image
 queue_thumbnail_downloads: false
 new_revision: true

@@ -10,8 +10,8 @@ third_party_settings:
 _core:
   default_config_hash: eIkKkAgdcmz-vuQPidRZ6kuQ2Ek_1D1vCt6b1N8K16s
 id: video
-label: Video
-description: 'A locally hosted video file.'
+label: Vídeo
+description: 'Un archivo de vídeo alojado localmente.'
 source: video_file
 queue_thumbnail_downloads: false
 new_revision: true

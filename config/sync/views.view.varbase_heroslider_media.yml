@@ -49,10 +49,10 @@ display:
       exposed_form:
         type: basic
         options:
-          submit_button: Apply
+          submit_button: Aplicar
           reset_button: false
-          reset_button_label: Reset
-          exposed_sorts_label: 'Sort by'
+          reset_button_label: Restablecer
+          exposed_sorts_label: 'Ordenar por'
           expose_sort_order: true
           sort_asc_label: Asc
           sort_desc_label: Desc
@@ -78,8 +78,8 @@ display:
           thumbnail_caption: ''
           grid_header: ''
           grid: null
-          grid_medium: 2
-          grid_small: 1
+          grid_medium: '2'
+          grid_small: '1'
           visible_items: 2
           preserve_keys: true
           image: ''

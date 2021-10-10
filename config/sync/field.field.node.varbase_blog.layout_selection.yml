@@ -11,7 +11,7 @@ id: node.varbase_blog.layout_selection
 field_name: layout_selection
 entity_type: node
 bundle: varbase_blog
-label: Layout
+label: Diseño
 description: ''
 required: false
 translatable: true

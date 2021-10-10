@@ -10,8 +10,8 @@ id: media.video.uid
 field_name: uid
 entity_type: media
 bundle: video
-label: 'Authored by'
-description: 'The user ID of the author.'
+label: 'Escrito por'
+description: 'El ID de usuario del autor.'
 required: false
 translatable: false
 default_value: {  }

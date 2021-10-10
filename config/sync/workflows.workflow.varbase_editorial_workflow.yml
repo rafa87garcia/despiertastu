@@ -19,10 +19,10 @@ type_settings:
     draft:
       published: false
       default_revision: false
-      label: Draft
+      label: Borrador
       weight: -3
     published:
-      label: Published
+      label: Publicado
       published: true
       default_revision: true
       weight: -1
@@ -54,7 +54,7 @@ type_settings:
         - review
         - published
     publish:
-      label: Publish
+      label: Publicar
       to: published
       weight: -1
       from:

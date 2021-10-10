@@ -10,8 +10,8 @@ third_party_settings:
 _core:
   default_config_hash: ZdlIHtXxAmnXC_UwxnS0qIyqzw6dTMaLIDwqetNgDeE
 id: file
-label: File
-description: 'Use local files for reusable media.'
+label: Archivo
+description: 'Utilice ficheros locales para elementos multimedia reutilizables.'
 source: file
 queue_thumbnail_downloads: false
 new_revision: true

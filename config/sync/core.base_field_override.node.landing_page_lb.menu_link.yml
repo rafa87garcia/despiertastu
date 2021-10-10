@@ -10,7 +10,7 @@ id: node.landing_page_lb.menu_link
 field_name: menu_link
 entity_type: node
 bundle: landing_page_lb
-label: 'Menu link'
+label: 'Enlace del menu'
 description: 'Computed menu link for the node (only available during node saving).'
 required: false
 translatable: true

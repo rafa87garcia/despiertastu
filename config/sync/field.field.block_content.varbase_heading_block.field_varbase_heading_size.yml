@@ -13,7 +13,7 @@ id: block_content.varbase_heading_block.field_varbase_heading_size
 field_name: field_varbase_heading_size
 entity_type: block_content
 bundle: varbase_heading_block
-label: Size
+label: Tamaño
 description: ''
 required: false
 translatable: true

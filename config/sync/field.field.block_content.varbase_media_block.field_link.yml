@@ -13,7 +13,7 @@ id: block_content.varbase_media_block.field_link
 field_name: field_link
 entity_type: block_content
 bundle: varbase_media_block
-label: Link
+label: Enlace
 description: ''
 required: false
 translatable: false

@@ -10,8 +10,8 @@ id: node.page.uid
 field_name: uid
 entity_type: node
 bundle: page
-label: 'Authored by'
-description: 'The username of the content author.'
+label: 'Escrito por'
+description: 'El nombre de usuario del autor del contenido.'
 required: false
 translatable: false
 default_value: {  }

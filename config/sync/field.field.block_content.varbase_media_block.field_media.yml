@@ -16,7 +16,7 @@ id: block_content.varbase_media_block.field_media
 field_name: field_media
 entity_type: block_content
 bundle: varbase_media_block
-label: Media
+label: Multimedia
 description: ''
 required: true
 translatable: false

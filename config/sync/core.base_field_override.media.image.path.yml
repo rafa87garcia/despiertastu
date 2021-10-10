@@ -12,7 +12,7 @@ id: media.image.path
 field_name: path
 entity_type: media
 bundle: image
-label: 'URL alias'
+label: 'Alias de URL'
 description: ''
 required: false
 translatable: false

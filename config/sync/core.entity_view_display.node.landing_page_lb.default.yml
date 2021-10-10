@@ -137,7 +137,7 @@ third_party_settings:
             region: blb_region_col_1
             configuration:
               id: 'extra_field_block:node:landing_page_lb:content_moderation_control'
-              label: 'Moderation control'
+              label: 'Control de moderación'
               provider: layout_builder
               label_display: '0'
               formatter:

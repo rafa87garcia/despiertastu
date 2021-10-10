@@ -10,7 +10,7 @@ id: node.varbase_heroslider_media.menu_link
 field_name: menu_link
 entity_type: node
 bundle: varbase_heroslider_media
-label: 'Menu link'
+label: 'Enlace del menu'
 description: 'Computed menu link for the node (only available during node saving).'
 required: false
 translatable: false

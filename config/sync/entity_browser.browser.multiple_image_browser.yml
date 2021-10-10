@@ -57,5 +57,5 @@ widgets:
       auto_select: true
     uuid: b40a5f86-811f-43b9-9784-5205ee727bdc
     weight: 3
-    label: Upload
+    label: 'Subir al servidor'
     id: dropzonejs_media_entity

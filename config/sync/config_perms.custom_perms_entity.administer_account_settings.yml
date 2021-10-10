@@ -5,5 +5,5 @@ dependencies: {  }
 _core:
   default_config_hash: G3RasgGpLT7MiDfwt1phJQ229-nSxEF7TVbk-QrirXU
 id: administer_account_settings
-label: 'Administer account settings'
+label: 'Administrar las configuraciones de la cuenta'
 route: entity.user.admin_form
