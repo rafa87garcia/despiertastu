@@ -1,0 +1,14 @@
+uuid: 2f181e2a-fd22-420f-846f-6c3dd036ffbd
+langcode: es
+status: false
+dependencies: {  }
+id: local
+label: Local
+description: ''
+weight: 0
+storage: folder
+folder: ../config/split/local
+module: {  }
+theme: {  }
+complete_list: {  }
+partial_list: {  }
