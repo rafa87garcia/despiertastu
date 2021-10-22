@@ -57,7 +57,6 @@
 /docroot/update.php
 /docroot/web.config
 
-
 # End of https://www.toptal.com/developers/gitignore/api/drupal8
 
 # Ignore paths that contain user-generated content.
@@ -95,6 +94,11 @@ errors.log
 # Ignore yarn lint dependencies.
 node_modules
 yarn.lock
+
+# Ignore LucusHost
+docroot/*.shtml
+docroot/error_log
+docroot/.ftpquota
 
 # Ignore backups
 backups/
