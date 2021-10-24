@@ -271,6 +271,7 @@ module:
   password_policy: 10
   views: 10
   varbase: 1000
+  eu_cookie_compliance: 1001
 theme:
   bootstrap_barrio: 0
   seven: 0
