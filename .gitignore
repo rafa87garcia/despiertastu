@@ -30,11 +30,11 @@
 /vendor
 /.htaccess
 /docroot/core
-/docroot/modules/contrib
+/docroot/modules/contrib/
 /docroot/modules/README.txt
-/docroot/profiles/contrib
+/docroot/profiles/contrib/
 /docroot/profiles/README.txt
-/docroot/themes/contrib
+/docroot/themes/contrib/
 /docroot/themes/README.txt
 /docroot/sites/README.txt
 /docroot/sites/example.sites.php
