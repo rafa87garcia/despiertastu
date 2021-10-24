@@ -40,7 +40,8 @@
     "vardot/varbase-updater": "~2.0",
     "drush/drush": "^10.6",
     "drupal/backup_migrate": "^5.0",
-    "drupal/config_split": "^2.0@beta"
+    "drupal/config_split": "^2.0@beta",
+    "drupal/eu_cookie_compliance": "^1.19"
   },
   "config": {
     "bin-dir": "bin/",
