@@ -70,3 +70,6 @@ type_settings:
       - varbase_blog
       - varbase_heroslider_media
       - landing_page_lb
+      - varbase_blog
+      - varbase_heroslider_media
+      - landing_page_lb
