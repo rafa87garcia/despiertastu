@@ -29,6 +29,7 @@ permissions:
   - 'delete own varbase_blog content'
   - 'delete own varbase_heroslider_media content'
   - 'delete own video media'
+  - 'display eu cookie compliance popup'
   - 'edit own audio media'
   - 'edit own file media'
   - 'edit own gallery media'

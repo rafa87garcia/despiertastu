@@ -68,6 +68,7 @@ permissions:
   - 'delete own page content'
   - 'delete own varbase_blog content'
   - 'delete own varbase_heroslider_media content'
+  - 'display eu cookie compliance popup'
   - 'dropzone upload files'
   - 'edit any landing_page content'
   - 'edit any landing_page_lb content'

@@ -89,6 +89,7 @@ permissions:
   - 'delete own video media'
   - 'delete terms in blog_categories'
   - 'delete terms in tags'
+  - 'display eu cookie compliance popup'
   - 'dropzone upload files'
   - 'ds switch view mode'
   - 'edit any audio media'
