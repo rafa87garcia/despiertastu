@@ -6,10 +6,10 @@ id: front
 label: 'Front page'
 tags:
   canonical_url: '[site:url]'
+  title: '[site:name]'
   shortlink: '[site:url]'
-  title: '[site:name] | [site:slogan]'
   google_plus_name: '[site:name] | [site:slogan]'
-  og_title: '[site:name] | [site:slogan]'
   og_url: '[site:url]'
-  twitter_cards_page_url: '[site:url]'
+  og_title: '[site:name] | [site:slogan]'
   twitter_cards_title: '[site:name] | [site:slogan]'
+  twitter_cards_page_url: '[site:url]'
