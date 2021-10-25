@@ -8,7 +8,9 @@ description: ''
 weight: 0
 storage: folder
 folder: ../config/split/prod
-module: {  }
+module:
+  lite_speed_cache: 0
 theme: {  }
-complete_list: {  }
+complete_list:
+  - lite_speed_cache.settings
 partial_list: {  }
