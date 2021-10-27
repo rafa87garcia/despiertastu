@@ -52,7 +52,8 @@
     "drupal/backup_migrate": "^5.0",
     "drupal/config_split": "^2.0@beta",
     "drupal/eu_cookie_compliance": "^1.19",
-    "drupal/amp": "^3.5"
+    "drupal/amp": "^3.5",
+    "drupal/advagg": "^4.1"
   },
   "config": {
     "bin-dir": "bin/",
