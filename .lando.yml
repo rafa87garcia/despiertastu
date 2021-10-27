@@ -18,8 +18,8 @@ services:
     type: node
     build:
       - "yarn install -y"
-#  memcache:
-#    type: memcached
+  memcache:
+    type: memcached
 #  solr:
 #    type: solr:8.4
 #    config:
