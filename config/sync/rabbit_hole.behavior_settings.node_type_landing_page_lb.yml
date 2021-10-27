@@ -1,14 +1,16 @@
 uuid: 29530905-acc5-45e5-9538-b0bd23b7ce8e
 langcode: es
 status: true
-dependencies: {  }
+dependencies:
+  config:
+    - node.type.landing_page_lb
 _core:
   default_config_hash: NpN6h2NAx8Fbgnr0OF0Pq_ydE1nQzCJj5VT5dd6n57U
 id: node_type_landing_page_lb
-entity_type_id: null
-entity_id: null
+entity_type_id: node_type
+entity_id: landing_page_lb
 action: display_page
 allow_override: 0
 redirect: ''
 redirect_code: 301
-redirect_fallback_action: null
+redirect_fallback_action: access_denied
