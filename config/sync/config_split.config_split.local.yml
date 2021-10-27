@@ -8,7 +8,13 @@ description: ''
 weight: 0
 storage: folder
 folder: ../config/split/local
-module: {  }
+module:
+  webprofiler: 0
+  devel: 0
 theme: {  }
-complete_list: {  }
+complete_list:
+  - devel.toolbar.settings
+  - devel.settings
+  - system.menu.devel
+  - webprofiler.config
 partial_list: {  }
