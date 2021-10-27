@@ -1,0 +1,11 @@
+uuid: da26d94b-e417-4af4-a291-afe5eaf29407
+langcode: es
+status: true
+dependencies:
+  config:
+    - node.type.varbase_blog
+id: node.varbase_blog
+target_entity_type_id: node
+target_bundle: varbase_blog
+default_langcode: site_default
+language_alterable: false
