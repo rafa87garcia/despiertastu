@@ -4,11 +4,17 @@ cron_generate_interval: 0
 remove_duplicates: true
 skip_untranslated: true
 batch_process_limit: 1500
-base_url: ''
+base_url: 'https://despiertastu.com'
 custom_links_include_images: false
 excluded_languages: {  }
 enabled_entity_types:
   - node
   - taxonomy_term
   - menu_link_content
+  - webform_submission
 langcode: es
+xsl: true
+default_variant: default
+disable_language_hreflang: false
+entities_per_queue_item: 50
+generate_duration: 10000
