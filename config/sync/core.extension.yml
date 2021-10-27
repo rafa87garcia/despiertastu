@@ -166,7 +166,6 @@ module:
   pathologic: 0
   persistent_login: 0
   prevent_homepage_deletion: 0
-  quickedit: 0
   rabbit_hole: 0
   rdf: 0
   recaptcha: 0
