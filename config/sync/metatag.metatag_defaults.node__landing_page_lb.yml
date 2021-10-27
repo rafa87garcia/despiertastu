@@ -1,0 +1,8 @@
+uuid: 6a82949b-ff76-47e1-966f-279e62edf9d9
+langcode: es
+status: true
+dependencies: {  }
+id: node__landing_page_lb
+label: 'Contenido: Landing page (Layout Builder)'
+tags:
+  title: '[site:name]'
