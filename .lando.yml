@@ -20,6 +20,9 @@ services:
       - "yarn install -y"
   memcache:
     type: memcached
+  redis:
+    type: redis
+    portforward: true
 #  solr:
 #    type: solr:8.4
 #    config:
