@@ -17,4 +17,5 @@ complete_list:
   - devel.settings
   - system.menu.devel
   - webprofiler.config
-partial_list: {  }
+partial_list:
+  - simple_sitemap.settings
