@@ -4,6 +4,9 @@ config:
   webroot: docroot
   php: '7.4'
   drush: ^9
+proxy:
+  mailhog:
+    - mailhog.despiertastu.lndo.site
 services:
   appserver:
     scanner: false
@@ -18,8 +21,6 @@ services:
     type: node
     build:
       - "yarn install -y"
-  memcache:
-    type: memcached
   redis:
     type: redis
     portforward: true
@@ -27,6 +28,10 @@ services:
 #    type: solr:8.4
 #    config:
 #      dir: docroot/modules/contrib/search_api_solr/solr-conf/7.x
+  mailhog:
+    type: mailhog
+    hogfrom:
+      - appserver
 tooling:
   phpcs:
     service: appserver
