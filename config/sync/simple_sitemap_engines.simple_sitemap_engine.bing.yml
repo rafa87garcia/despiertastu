@@ -1,0 +1,10 @@
+uuid: 1ab0e45d-7049-4b53-963f-8e3074922c98
+langcode: es
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pu2tnTIZRlkkRZxbhVQU0L3FYniVvYFXIe6iCH9kXHo
+id: bing
+label: Bing
+url: 'https://www.bing.com/ping?sitemap=[sitemap]'
+sitemap_variants: {  }
