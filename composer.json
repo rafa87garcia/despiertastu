@@ -223,6 +223,11 @@
         "composer-exit-on-patch-failure": true,
         "patchLevel": {
             "drupal/core": "-p2"
+        },
+        "patches": {
+            "drupal/swiftmailer": {
+                "Two Undefined index notices": "https://www.drupal.org/files/issues/2021-01-05/3179656-fixed-undefined-index-notices-9.patch"
+            }
         }
     }
 }
