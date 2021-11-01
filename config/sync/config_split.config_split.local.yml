@@ -9,8 +9,11 @@ weight: 0
 storage: folder
 folder: ../config/split/local
 module:
-  webprofiler: 0
+  blazy_ui: 0
+  slick_ui: 0
   devel: 0
+  views_ui: 0
+  webprofiler: 0
 theme: {  }
 complete_list:
   - devel.toolbar.settings
@@ -19,3 +22,4 @@ complete_list:
   - webprofiler.config
 partial_list:
   - simple_sitemap.settings
+  - swiftmailer.transport
