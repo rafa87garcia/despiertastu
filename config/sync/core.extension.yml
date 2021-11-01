@@ -177,7 +177,6 @@ module:
   redirect_domain: 0
   redis: 0
   responsive_image: 0
-  responsive_preview: 0
   rest: 0
   restui: 0
   revision_log_default: 0
